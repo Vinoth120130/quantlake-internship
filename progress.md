@@ -16,7 +16,11 @@ Jupyter Notebook
 - No blockers
 
 **📂 Files:**  
-- ['GitHub'](https://github.com/Vinoth120130/quantlake-internship.git)## Day 2 - Python Fundamentals
+- ['GitHub'](https://github.com/Vinoth120130/quantlake-internship.git)
+ 
+---
+
+## Day 2 - Python Fundamentals
 
 ### Practiced:
 - Data Structures: list, tuple, set, dict
